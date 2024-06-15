@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    font-family: diamond;
+    background-color: rgb(12, 3, 66);
+    font-weight: 800;
+}
+#headline
+{
+    color: black;
+    margin: 10px auto 0 10px;
+    border-left: 7px solid black;
+    background-color: white;
+    padding: 5px;
+}
+#main
+{
+    height: 500px;
+    max-width: 45%;
+    min-width: 45%;
+    border: 5px solid rgb(12, 223, 234);
+    border-radius: 25px;
+    margin: 25px auto;
+    background-color: rgb(130, 130, 220);
+    box-shadow: 2px 2px 3px gray;
+}
+
+#app
+{
+    margin: 100px auto;
+    text-align: center;
+    width: 80%;
+    background-image: url(images/n0223xlj.png);
+    color: white;
+    color: #45A29E;
+    color: #66FCF1;
+    text-align: center;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.inpt{
+    display: line-block;
+    padding: 8px 8px;
+    margin: 15px;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px;
+}
+
